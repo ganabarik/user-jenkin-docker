@@ -1,0 +1,6 @@
+server:
+  port: 7331
+
+spring:
+  application:
+    name: user-jenkin-service
